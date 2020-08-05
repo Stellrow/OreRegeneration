@@ -1,0 +1,10 @@
+name: OreRegeneration
+author: Stellrow
+api-version: 1.13
+version: 1.0
+main: me.Stellrow.OreRegeneration.OreRegeneration
+
+commands:
+  oregen:
+    usage: /oregen
+    description: Shows available commands for the plugin
